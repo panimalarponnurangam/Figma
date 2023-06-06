@@ -142,10 +142,8 @@ background: url(Logo.png);
 
 ![Screenshot 2023-06-06 111258](https://github.com/panimalarponnurangam/Figma/assets/121490826/401ebeb8-1798-4938-ae45-dbabab9280f0)
 
-![Screenshot 2023-06-06 111327](https://github.com/panimalarponnurangam/Figma/assets/121490826/b48252a4-b972-49e6-b758-c4deb02418a8)
-
-
-![Screenshot 2023-06-06 111353](https://github.com/panimalarponnurangam/Figma/assets/121490826/999ac8f4-e56c-43df-8936-59346e6de08e)
+![Screenshot 2023-06-06 111929](https://github.com/panimalarponnurangam/Figma/assets/121490826/f887d031-709d-4903-ae9a-477fb2dff5a4)
+![Screenshot 2023-06-06 111954](https://github.com/panimalarponnurangam/Figma/assets/121490826/5001b667-1708-45e0-9be8-4c2ecea90ec3)
 
 
 
